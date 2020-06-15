@@ -5,7 +5,7 @@ import 'package:google_maps_webservice/places.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 import 'package:geolocator/geolocator.dart';
-const apiKey = "AIzaSyA6xxnNLCZl9mJCbuccfXEGFy4VvuGQA8E";
+const apiKey = "API-AQUI";
 
 class ResultAddress{
   final String name;
